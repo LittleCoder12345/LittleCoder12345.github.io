@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year master student from Tsinghua University (THU), Shenzhen Graduate School. My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj/main.psp). Prior to this, I obtained my bachelor's degree from the Department of Electronic Engineering at Tsinghua University in June 2025.
+I'm a first year master student from **Tsinghua University (THU), Shenzhen Graduate School**. My advisor is **[Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj/main.psp)**. Prior to this, I obtained my bachelor's degree from the **Department of Electronic Engineering** at **Tsinghua University** in June 2025.
 
-I am currently interning in ByteDance, focusing on post-training of MLLM for e-commerce scenarios. Prior to this, I interned in TeleAI, working on the post-training of the Telechat series foundation models. I have also interned in Tencent before for kernel development.
+I am currently interning in **ByteDance**, focusing on post-training of MLLM for e-commerce scenarios. Prior to this, I interned in **TeleAI**, working on the post-training of the Telechat series foundation models. I have also interned in **Tencent** before for kernel development.
 
 My research interest includes Reward Model/LLM-as-a-Judge and LLM/MLLM post training. 
 
@@ -43,4 +43,4 @@ Internship
 Interests
 ======
 - Riding, city walk, Running
-- Digital Card Games (HearthStone et al.)
+- Computer Card Games (HearthStone et al.)
