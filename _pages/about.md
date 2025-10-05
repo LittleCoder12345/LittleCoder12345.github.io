@@ -15,10 +15,10 @@ My research interest includes Reward Model/LLM-as-a-Judge and LLM/MLLM post trai
 
 Activities
 ======
-- 2025.9  I enrolled in the Shenzhen Graduate School of Tsinghua University to pursue a Master's degree, with an expected graduation date in 2028.
-- 2025.8  🎉 [Improve llm-as-a-judge ability as a general ability](https://arxiv.org/abs/2502.11689) is accepted by **EMNLP 2025 Main Conference**. Welcome to use our SOTA LLM-as-a-Judge model [RISE-Judge](https://huggingface.co/R-I-S-E)!
-- 2025.6  🎆 I graduate from Department of Electronic Engineering, Tsinghua University and get bachelor degree.
-- 2025.4  I began an internship at ByteDance, focusing on MLLM post-training research.
+- **2025.9**  I enroll in the Shenzhen Graduate School of Tsinghua University to pursue a Master degree, with an expected graduation date in 2028.
+- **2025.8**  🎉 [Improve llm-as-a-judge ability as a general ability](https://arxiv.org/abs/2502.11689) is accepted by **EMNLP 2025 Main Conference**. Welcome to use our SOTA LLM-as-a-Judge model [RISE-Judge](https://huggingface.co/R-I-S-E)!
+- **2025.6**  🎆 I graduate from Department of Electronic Engineering, Tsinghua University and get bachelor degree.
+- **2025.4**  I begin an internship at ByteDance, focusing on MLLM post-training research.
 
 Publications
 ======
@@ -36,9 +36,9 @@ Preprints
 
 Internship
 ======
-- 2025.4 to now: Bytedance, data, Global E-commerce
+- 2025.4 to now: Bytedance, Data, Global E-commerce
 - 2024.10-2025.3: TeleAI
-- 2024.6-2024.8: Tencent
+- 2024.6-2024.8: Tencent, TEG
 
 Interests
 ======
