@@ -21,11 +21,15 @@ Publications
 
 Preprints
 ======
-
+- [VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?](https://arxiv.org/abs/2506.11571)
+  - **Jiachen Yu<sup>*</sup>**, Yufei Zhan<sup>*</sup>, Ziheng Wu, Yujiu Yang, Yousong Zhu, Jinqiao Wang
+ 
+- [S2J: Bridging the Gap Between Solving and Judging Ability in Generative Reward Models](https://arxiv.org/abs/2509.22099)
+  - Shaoning Sun<sup>\*</sup>, **Jiachen Yu<sup>*</sup>**, Zongqi Wang, Xuewei Yang, Tianle Gu, Yujiu Yang  
 
 Internship
-------
+======
 
 
 Interests
-------
+======
