@@ -29,7 +29,11 @@ Preprints
 
 Internship
 ======
-
+- 2025.4 to now: Bytedance, data, Global E-commerce
+- 2024.10-2025.3: TeleAI
+- 2024.6-2024.8: Tencent
 
 Interests
 ======
+- Riding, city walk, Running
+- Digital Card Games (HearthStone et al.)
