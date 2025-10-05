@@ -16,7 +16,7 @@ My research interest includes Reward Model and LLM/MLLM post training.
 Publications
 ======
 - Improve llm-as-a-judge ability as a general ability
-- **Jiachen Yu^{\*}**, Shaoning Sun^{\*}, Xiaohui Hu, Jiaxu Yan, Kaidong Yu, Xuelong Li
+- **Jiachen Yu<sup>*</sup>**, Shaoning Sun<sup>*</sup>, Xiaohui Hu, Jiaxu Yan, Kaidong Yu, Xuelong Li
 - EMNLP 2025 Main Conference
 
 Preprints
