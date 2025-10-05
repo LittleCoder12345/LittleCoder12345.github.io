@@ -11,12 +11,12 @@ I'm a first year master student from Tsinghua University (THU), Shenzhen Graduat
 
 I am currently interning in ByteDance, focusing on post-training of MLLM for e-commerce scenarios. Prior to this, I interned in TeleAI, working on the post-training of the Telechat series foundation models. I have also interned in Tencent before for kernel development.
 
-My research interest includes Reward Model and LLM/MLLM post training. 
+My research interest includes Reward Model/LLM-as-a-Judge and LLM/MLLM post training. 
 
 Activities
 ======
 - 2025.9  I enrolled in the Shenzhen Graduate School of Tsinghua University to pursue a Master's degree, with an expected graduation date in 2028.
-- 2025.8  🎉 [Improve llm-as-a-judge ability as a general ability](https://arxiv.org/abs/2502.11689) is accepted by **EMNLP 2025 Main Conference**
+- 2025.8  🎉 [Improve llm-as-a-judge ability as a general ability](https://arxiv.org/abs/2502.11689) is accepted by **EMNLP 2025 Main Conference**. Welcome to use our SOTA LLM-as-a-Judge model [RISE-Judge](https://huggingface.co/R-I-S-E)!
 - 2025.6  🎆 I graduate from Department of Electronic Engineering, Tsinghua University and get bachelor degree.
 - 2025.4  I began an internship at ByteDance, focusing on MLLM post-training research.
 
