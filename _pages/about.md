@@ -9,12 +9,13 @@ redirect_from:
 
 I'm a first year master student from **Tsinghua University (THU), Shenzhen Graduate School**. My advisor is **[Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj/main.psp)**. Prior to this, I obtained my bachelor's degree from the **Department of Electronic Engineering** at **Tsinghua University** in June 2025.
 
-I am currently interning in **ByteDance**, focusing on post-training of MLLM for e-commerce scenarios. Prior to this, I interned in **TeleAI**, working on the post-training of the Telechat series foundation models. I have also interned in **Tencent** before for kernel development.
+I am currently interning in **Tencent AI Lab**, focus on memory compression in long context scenarios. Before this, I interned in **ByteDance**, focusing on post-training of MLLM for e-commerce scenarios. Prior to this, I interned in **TeleAI**, working on the post-training of the Telechat series foundation models. I have also interned in **Tencent** before for kernel development.
 
 My research interest includes Reward Model/LLM-as-a-Judge and LLM/MLLM post training. 
 
 Activities
 ======
+- **2025.12** 🧐 I start my internship in Tencent AI Lab, focusing on long-context compression.
 - **2025.9**  📖 I enroll in the Shenzhen Graduate School of Tsinghua University to pursue a Master degree, with an expected graduation date in 2028.
 - **2025.8**  🎉 [Improve llm-as-a-judge ability as a general ability](https://arxiv.org/abs/2502.11689) is accepted by **EMNLP 2025 Main Conference**. Welcome to use our SOTA LLM-as-a-Judge model [RISE-Judge](https://huggingface.co/R-I-S-E)!
 - **2025.6**  🎆 I graduate from Department of Electronic Engineering, Tsinghua University and get bachelor degree.
@@ -29,6 +30,8 @@ Publications
 
 Preprints
 ======
+- [CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System](https://arxiv.org/abs/2602.05004v1)
+  - Zexin Lin<sup>*</sup>, **Jiachen Yu<sup>*</sup>**, Haoyang Zhang, Yuzhao Li, Zhonghang Li, Yujiu Yang, Junjie Wang, Xiaoqiang Ji
 - [VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?](https://arxiv.org/abs/2506.11571)
   - **Jiachen Yu<sup>*</sup>**, Yufei Zhan<sup>*</sup>, Ziheng Wu, Yujiu Yang, Yousong Zhu, Jinqiao Wang
   - Finished during internship in ByteDance.
