@@ -31,7 +31,7 @@ Publications
 Preprints
 ======
 - [CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System](https://arxiv.org/abs/2602.05004v1)
-  - Zexin Lin<sup>*</sup>, **Jiachen Yu<sup>*</sup>**, Haoyang Zhang, Yuzhao Li, Zhonghang Li, Yujiu Yang, Junjie Wang, Xiaoqiang Ji
+  - Zexin Lin<sup>\*</sup>, **Jiachen Yu<sup>*</sup>**, Haoyang Zhang, Yuzhao Li, Zhonghang Li, Yujiu Yang, Junjie Wang, Xiaoqiang Ji
 - [VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?](https://arxiv.org/abs/2506.11571)
   - **Jiachen Yu<sup>*</sup>**, Yufei Zhan<sup>*</sup>, Ziheng Wu, Yujiu Yang, Yousong Zhu, Jinqiao Wang
   - Finished during internship in ByteDance.
