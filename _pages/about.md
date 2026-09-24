@@ -15,8 +15,8 @@ My research interest includes Reward Model/LLM-as-a-Judge and LLM/MLLM post trai
 
 Activities
 ======
-- **2026.9**  🎉 [Think-with-rubrics: From external evaluator to internal reasoning guidance](https://arxiv.org/pdf/2605.07461) is accepted by NeurIPS 2026 Main Track!
-- **2026.8**  🎉 Two papers are accepted by EMNLP 2026 Findings!
+- **2026.9**  🎉 [Think-with-rubrics: From external evaluator to internal reasoning guidance](https://arxiv.org/pdf/2605.07461) is accepted by **NeurIPS 2026 Main Track**!
+- **2026.8**  🎉 Two papers are accepted by **EMNLP 2026 Findings**!
 - **2026.6**  🎉 Our new work [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/pdf/2606.09079) has been posted on arxiv!
 - **2025.12** 🧐 I start my internship in Tencent AI Lab, focusing on long-context compression.
 - **2025.9**  📖 I enroll in the Shenzhen Graduate School of Tsinghua University to pursue a Master degree, with an expected graduation date in 2028.
